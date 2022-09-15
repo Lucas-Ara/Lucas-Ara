@@ -10,7 +10,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1019267707402723461/1019648112190566450/received_413454000896031-01.jpg">
+  <img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1019267707402723461/1020057097225904148/1663270836127.png">
 
   </div>
   
