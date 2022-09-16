@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA2BAD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DA2BAD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+Name+is+Lucas+Araujo;I+from+São+paulo,+Sp;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Hello,+MY+Name+is+Lucas+Araujo;I+from+São+paulo,+Sp;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Lucas-Ara">
@@ -27,4 +27,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA2BAD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
